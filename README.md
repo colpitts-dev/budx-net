@@ -1,2 +1,2 @@
-# hyperlocal
-Open source community engagement platform
+# budx.net
+Open source local exchange trading system
